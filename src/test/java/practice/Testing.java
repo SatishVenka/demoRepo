@@ -14,5 +14,15 @@ public class Testing {
 		System.out.println("haiiiii");
 		
 	}
+	
+@Test
+	
+	public  void Testi() {
+		// TODO Auto-generated constructor stub
+		System.out.println("haiiiii");
+		System.out.println("haiiiii");
+		System.out.println("haiiiii");
+		
+	}
 
 }
