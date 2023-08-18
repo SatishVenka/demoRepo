@@ -10,6 +10,8 @@ public class Testing {
 	public  void Testii() {
 		// TODO Auto-generated constructor stub
 		System.out.println("haiiiii");
+		System.out.println("haiiiii");
+		System.out.println("haiiiii");
 		
 	}
 
