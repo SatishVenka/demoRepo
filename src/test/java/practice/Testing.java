@@ -1,0 +1,16 @@
+package practice;
+
+import org.testng.annotations.Test;
+
+public class Testing {
+
+	
+	@Test
+	
+	public  void Testii() {
+		// TODO Auto-generated constructor stub
+		System.out.println("haiiiii");
+		
+	}
+
+}
