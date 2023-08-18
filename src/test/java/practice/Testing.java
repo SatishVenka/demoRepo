@@ -15,7 +15,7 @@ public class Testing {
 		
 	}
 	
-@Test
+@Test(groups="Smoke")
 	
 	public  void Testi() {
 		// TODO Auto-generated constructor stub
