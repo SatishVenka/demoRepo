@@ -7,6 +7,6 @@ public class Bug {
 	@Test
 	public void error()
 	{
-		System.out.println("---error--");
+		System.out.println("---error is cleared--");
 	}
 }
